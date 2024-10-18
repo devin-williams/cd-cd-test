@@ -1,4 +1,5 @@
 // Create a class called Calculator
+// This class should have the following methods
 class Calculator {
 
     Calculator(){
