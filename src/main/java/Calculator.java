@@ -1,4 +1,4 @@
-
+// Create a class called Calculator
 class Calculator {
 
     Calculator(){
